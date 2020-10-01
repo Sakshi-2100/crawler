@@ -4,7 +4,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/trandoshan-io/crawler)](https://goreportcard.com/report/github.com/trandoshan-io/crawler)
 [![Maintainability](https://api.codeclimate.com/v1/badges/9de366e20ce4db5a1900/maintainability)](https://codeclimate.com/github/trandoshan-io/crawler/maintainability)
 
-Crawler is a Go written program designed to crawl website
+Crawler is a Go written program designed to crawl website.
 
 ## features
 
